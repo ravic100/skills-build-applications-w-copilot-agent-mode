@@ -1,0 +1,6 @@
+# Requirements for OctoFit Tracker backend
+# Based on MonaFit Tracker and project requirements
+
+django>=4.2
+ djangorestframework
+ pymongo
